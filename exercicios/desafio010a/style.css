@@ -1,0 +1,100 @@
+@charset "UTC-8";
+
+@font-face {
+    font-family: 'Verajja-Serif-Bold';
+    src:url('Verajja-Serif-Bold.ttf.woff') format('woff'),
+        url('Verajja-Serif-Bold.ttf.svg#Verajja-Serif-Bold') format('svg'),
+        url('Verajja-Serif-Bold.ttf.eot'),
+        url('Verajja-Serif-Bold.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+*{
+    font-family: 'Verajja-Serif-Bold';
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+
+}
+
+body{
+    
+    
+    
+
+}
+
+.container {
+       
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+header {
+    width: 100%;
+      
+    background-image: linear-gradient(45deg, rgb(13, 59, 120), rgb(24, 150, 18));
+   
+    
+
+
+}
+
+ 
+.logoib,.sociais {
+    
+
+    
+      
+    
+    
+}
+
+.sociais > button img {
+
+    
+
+
+   
+}
+
+
+.sociais >  button > i{
+
+    padding: 25px;
+    border-radius: 10px;
+  
+}
+
+
+
+.logoib img {
+    width: 150px;
+    margin: right 10px;
+    
+    
+    
+}
+
+.ibescrita img {
+    width: 400px;
+}
+
+.menu {
+    width: 50%;
+}
+
+.menu nav a {
+    padding: 30px ;  
+    color: rgb(15, 15, 15);
+    text-decoration: none;
+    font-size: 20px;
+    
+
+}

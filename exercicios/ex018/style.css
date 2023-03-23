@@ -1,0 +1,24 @@
+@charset 'UTF-08';
+
+
+
+h1{
+
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.346);
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 5px 5px 5px #205A8C;
+    font-style: italic;
+    font-weight: 300;
+    color: #0ae627;
+}
+
+p{
+    text-align: justify;
+    font-size: 20px;
+    color: rgb(29, 29, 56);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    
+}
+h2{}
