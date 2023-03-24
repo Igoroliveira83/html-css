@@ -16,7 +16,7 @@
     box-sizing: border-box;
 }
 
-:root {
+:root {-
 
 }
 
@@ -59,26 +59,17 @@ header {
 .sociais > button img {
 
     
-
-
-   
+.banner > img {
+    width: 100px;
+    margin: 5px;
+    padding: 10px;}
+ 
 }
-
-
-.sociais >  button > i{
-
-    padding: 25px;
-    border-radius: 10px;
-  
-}
-
-
 
 .logoib img {
     width: 150px;
     margin: right 10px;
-    
-    
+       
     
 }
 
@@ -91,6 +82,7 @@ header {
 }
 
 .menu nav a {
+    wu     
     padding: 30px ;  
     color: rgb(15, 15, 15);
     text-decoration: none;
@@ -98,3 +90,28 @@ header {
     
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
