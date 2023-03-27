@@ -1,5 +1,15 @@
 @charset "UTF-8";
 
+@import url('https://fonts.googleapis.com/css2? family= Dancing+Script:wght@700 & family= Edu+NSW+ACT+Foundation & família= Paixão+Um &family= Playfair+Display & family= Sriracha & exibir=trocar');
+
+@import url('https://fonts.googleapis.com/css2? family= Dancing+Script:wght@700 & family= Edu+NSW+ACT+Foundation & family= Playfair+Display & family= Sriracha & exibir=trocar');
+
+:root {
+    --fonte1: verdana, geneva, sans-serif;
+    --fonte2:'Passion one' , cursive;
+    --fonte3:'Siriacha' , cursive;
+}
+
 
 *{
     margin: 0px;
@@ -10,16 +20,20 @@
 html, body{
     background-color: darkgrey;
     min-width: 100vh;
+    font-family: var(--fonte1);
 }
 
 header{
+
     background-color: black;
     color: white;
     text-align: center;
+  
     
 }
 
 header h1 {
+ 
     padding-top: 50px;
     font-variant: small-caps;
 }
@@ -39,6 +53,7 @@ a:hover{
 }
 
 section {
+    font-family: var(--fonte3);
     padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 2em;
